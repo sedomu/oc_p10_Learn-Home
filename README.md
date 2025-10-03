@@ -56,9 +56,8 @@ Planned pages:
 The following interactive prototypes were created with Penpot and exported as GIFs.  
 They provide a self-contained preview of the design without requiring access to Penpot.
 
-| Login                      | Conversation                             | Calendar and Tasks                               |
-|----------------------------|------------------------------------------|--------------------------------------------------|
-| ![Login](./gifs/login.gif) | ![Conversation](./gifs/conversation.gif) | ![Calendar and Tasks](./gifs/calendar-tasks.gif) |
+| ![Login page prototype](./gifs/login.gif) | ![Conversation page prototype](./gifs/conversation.gif) | ![Calendar and Tasks pages prototype](./gifs/calendar-tasks.gif) |
+|-------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------|
 
 ---
 
